@@ -1,7 +1,7 @@
 # Fund-vue
 基金数据回测和持仓图示
 
-![价值平衡策略](https://github.com/linrubo/Fund-vue/raw/main/src/assets/img/%E4%BB%B7%E5%80%BC%E5%B9%B3%E5%9D%87%E7%AD%96%E7%95%A5.jpg)
+![价值平均策略](https://github.com/linrubo/Fund-vue/raw/main/src/assets/img/%E4%BB%B7%E5%80%BC%E5%B9%B3%E5%9D%87%E7%AD%96%E7%95%A5.jpg)
 
 ## Project setup
 ```

@@ -131,6 +131,7 @@ export default {
         auto() {
             this.mode = 'auto';
             this.paused = false;
+            clearInterval(this.timer);
             this.timer = setInterval(() => {
                 this.buy()
             }, this.interval);
